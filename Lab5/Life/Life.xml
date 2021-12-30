@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Biosfar namn="Liv"> ar allt som fortplantar sej
+<Rike namn="Vaxter"> kan inte forflytta sej
+<Division namn="Kryptogamer"> har inte synliga konsdelar
+<Klass namn="Ormbunkar"> har blad och karl
+</Klass>
+<Klass namn="Alger"> ar roda, grona eller bruna
+</Klass>
+</Division>
+<Division namn="Fanerogamer"> har standare och pistiller
+<Klass namn="Enhjartbladiga"> kallas monokotyledoner
+</Klass>
+<Klass namn="Tvahjartbladiga"> kallas dikotyledoner
+<Familj namn="Smorblomsvaxter"> kallas ranunkler
+<Art namn="Smorblomma"> ar gul som solen
+</Art>
+<Art namn="Vitsippa"> ar Anemone nemorosa
+</Art>
+<Art namn="Blasippa"> ar Hepatica nobilis
+</Art>
+</Familj>
+<Familj namn="Korgblommiga"> kallas kompositer
+<Art namn="Maskros"> ar ett besvarligt ogras
+</Art>
+<Art namn="Tussilago"> kallas hasthov och hosthav
+</Art>
+</Familj>
+</Klass>
+</Division>
+</Rike>
+<Rike namn="Djur"> kan forflytta sej
+<Division namn="Daggdjur"> foder levande ungar
+<Art namn="Schimpanser"> ar vara kusiner
+</Art>
+<Art namn="Manniskor"> ar vi alla
+</Art>
+</Division>
+<Division namn="Faglar"> lagger agg och flyger
+<Art namn="Mas"> gillar Vaxholmsbatar
+</Art>
+<Art namn="Mes"> ar en feg fagel
+</Art>
+</Division>
+</Rike>
+<Rike namn="Svampar"> ar varken djur eller vaxter
+<Ordning namn="Soppar"> har ror under hatten
+<Art namn="Karljohan"> ar var storsta matsvamp
+</Art>
+<Art namn="Smorsopp"> ar den gulaste svampen
+</Art>
+</Ordning>
+<Slakte namn="Flugsvampar"> bor man inte ata
+<Art namn="Vit flugsvamp"> dor man av
+</Art>
+<Art namn="Rod flugsvamp"> far man magknip av
+</Art>
+</Slakte>
+</Rike>
+</Biosfar>

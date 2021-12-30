@@ -1,0 +1,8 @@
+<Biosfar namn="Liv"> ar allt som fortplantar sej
+<Rike namn="Vaxter"> kan inte forflytta sej
+</Rike>
+<Rike namn="Djur"> kan forflytta sej
+</Rike>
+<Rike namn="Svampar"> ar varken djur eller vaxter
+</Rike>
+</Biosfar>
